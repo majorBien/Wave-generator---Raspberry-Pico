@@ -2,7 +2,7 @@
  * Wave generator
  *
  *  Created on: Dec 10, 2023
- *      Author: shadoww7
+ *      Author: majorBien
  """
 
 from machine import Pin,SPI,PWM,ADC
